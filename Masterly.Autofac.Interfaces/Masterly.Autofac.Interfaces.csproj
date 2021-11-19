@@ -5,6 +5,26 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>Ahmad Al-Freihat</Authors>
     <Description>Interfaces to scan using Autofac assembly scanner</Description>
+    <PackageProjectUrl>https://github.com/a7mdfre7at/Masterly.Autofac.Interfaces</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/a7mdfre7at/Masterly.Autofac.Interfaces</RepositoryUrl>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageIcon>repo_image.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\repo_image.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
