@@ -16,14 +16,17 @@
     <None Include="..\README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
+      <Visible>False</Visible>
     </None>
     <None Include="..\repo_image.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
+      <Visible>False</Visible>
     </None>
     <None Include="..\LICENSE.txt">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
+      <Visible>False</Visible>
     </None>
   </ItemGroup>
 

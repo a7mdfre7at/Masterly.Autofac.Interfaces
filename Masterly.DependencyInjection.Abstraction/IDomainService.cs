@@ -1,4 +1,4 @@
-﻿namespace Masterly.Autofac.Interfaces
+﻿namespace Masterly.DependencyInjection.Abstraction
 {
     public interface IDomainService : IScopedDependency
     {
