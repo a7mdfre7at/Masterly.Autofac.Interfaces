@@ -10,6 +10,7 @@
     <RepositoryUrl>https://github.com/a7mdfre7at/Masterly.Autofac.Interfaces</RepositoryUrl>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <PackageIcon>repo_image.png</PackageIcon>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
