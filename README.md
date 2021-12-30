@@ -1,2 +1,2 @@
 # Masterly.DependencyInjection.Abstraction
-Interfaces to scan using Autofac assembly scanner.
+Interfaces to scan all required services to register in dependency injection container.
